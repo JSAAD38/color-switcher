@@ -13,4 +13,5 @@ A simple JavaScript project that changes the background color on button click.
 - Beginner friendly
 
 ## Live Demo
-()
+(https://jsaad38.github.io/color-switcher/)
+
