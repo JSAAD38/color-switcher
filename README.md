@@ -1,6 +1,3 @@
-# color-switcher
-A simple JavaScript color switcher project.
-
 # Color Switcher 🎨
 
 A simple JavaScript project that changes the background color on button click.
@@ -16,4 +13,4 @@ A simple JavaScript project that changes the background color on button click.
 - Beginner friendly
 
 ## Live Demo
-(Add GitHub Pages link here)
+()
